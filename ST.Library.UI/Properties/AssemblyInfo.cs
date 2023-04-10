@@ -11,7 +11,7 @@ using System.Resources;
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("None")]
 [assembly: AssemblyProduct("ST.Library.UI")]
-[assembly: AssemblyCopyright("Copyright © Crystal_lz")]
+[assembly: AssemblyCopyright("Copyright © SH-ZYL")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
